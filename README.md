@@ -37,3 +37,6 @@ arguments differs a bit from other languages -- which is to be expected. I also
 refamiliarized myself with the python data structures. Additionally, I was never
 introduced to the concept of pickling until this assignment. Lastly, the use of
 regular expressions was a good review for myself.
+
+## Word Processing Game
+[Linked here for: **Assignment 2 Python Code**](Homework2/Homework2ttv170230.py)
