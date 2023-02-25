@@ -40,3 +40,6 @@ regular expressions was a good review for myself.
 
 ## Word Processing Game
 [Linked here for: **Assignment 2 Python Code**](Homework2/HW2ttv170230.py)
+
+## WordNet assignment
+[Linked here for: WordNet Notebook](WordNet.pdf)
