@@ -42,4 +42,4 @@ regular expressions was a good review for myself.
 [Linked here for: **Assignment 2 Python Code**](Homework2/HW2ttv170230.py)
 
 ## WordNet assignment
-[Linked here for: WordNet Notebook](WordNet.pdf)
+[Linked here for: **WordNet Notebook**](WordNet.pdf)
