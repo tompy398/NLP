@@ -4,13 +4,14 @@ import pickle
 
 
 def read_file(filename):
-    with open(filename, encoding='utf-8') as f:
-        text = f.read()
-        raw_text = ''
-        for line in text:
-            raw_text += line.strip('\n')
 
-    tokenize = word_tokenize(raw_text)
+    with open(filename, encoding='utf-8') as f:
+        file_text = f.read()
+    file_text.split('\n')
+    text = ''
+    for line in file_text:
+        text += line
+    tokenize = word_tokenize(text)
     unigrams = list(tokenize)
     bigrams = list(ngrams(tokenize, 2))
 

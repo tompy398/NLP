@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34527101-dc34-4398-8b6a-46977c88e80f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NGram_HW/NGram1_ttv170230.py" beforeDir="false" afterPath="$PROJECT_DIR$/NGram_HW/NGram1_ttv170230.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NGram_HW/NGram2_ttv170230.py" beforeDir="false" afterPath="$PROJECT_DIR$/NGram_HW/NGram2_ttv170230.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NGram_HW/data/LangId.sol" beforeDir="false" afterPath="$PROJECT_DIR$/NGram_HW/data/LangId.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NGram_HW/data/LangId.test" beforeDir="false" afterPath="$PROJECT_DIR$/NGram_HW/data/LangId.test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NGram_HW/data/LangId.train.English" beforeDir="false" afterPath="$PROJECT_DIR$/NGram_HW/data/LangId.train.English" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NGram_HW/data/LangId.train.French" beforeDir="false" afterPath="$PROJECT_DIR$/NGram_HW/data/LangId.train.French" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NGram_HW/data/LangId.train.Italian" beforeDir="false" afterPath="$PROJECT_DIR$/NGram_HW/data/LangId.train.Italian" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NGram_HW/data/wordLangId.out" beforeDir="false" afterPath="$PROJECT_DIR$/NGram_HW/data/wordLangId.out" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,14 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Thomas/Documents/GitHub/NLP/NGram_HW/NGram1_ttv170230.py"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Thomas/Documents/GitHub/NLP/NGram_HW/NGram2_ttv170230.py&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Python.NGram2">
     <configuration name="NGram1" type="PythonConfigurationType" factoryName="Python">
       <module name="NLP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -53,6 +61,32 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="NGram2" type="PythonConfigurationType" factoryName="Python">
+      <module name="NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Thomas\anaconda3\python.exe" />
+      <option name="SDK_NAME" value="Python 3.9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NGram_HW" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NGram_HW/NGram2_ttv170230.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.NGram1" />
+      <item itemvalue="Python.NGram2" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
