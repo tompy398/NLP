@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34527101-dc34-4398-8b6a-46977c88e80f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Web Crawler/WebCrawler_ttv170230.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web Crawler/WebCrawler_ttv170230.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web Crawler/WebCrawler_ttv170230.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

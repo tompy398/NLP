@@ -8,12 +8,12 @@ from nltk import word_tokenize
 from unicodedata import normalize
 
 def main():
-    #web_crawler()
-    #scrape_text()
+    web_crawler()
+    scrape_text()
     clean_text()
     tf_dict = extract_import_terms()
     knowledge_base = create_knowledge_base(tf_dict)
-    #print(knowledge_base)
+    print(knowledge_base)
 
 
 def create_knowledge_base(tf_dict):
