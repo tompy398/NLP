@@ -39,7 +39,15 @@ introduced to the concept of pickling until this assignment. Lastly, the use of
 regular expressions was a good review for myself.
 
 ## Word Processing Game
-[Linked here for: **Assignment 2 Python Code**](Homework2/HW2ttv170230.py)
+[Link here for: **Assignment 2 Python Code**](Homework2/HW2ttv170230.py)
 
 ## WordNet assignment
-[Linked here for: **WordNet Notebook**](WordNet.pdf)
+[Link here for: **WordNet Notebook**](WordNet.pdf)
+
+## Ngrams Assignment
+[Link here for: **Ngrams Assignment 1**](NGram_HW/NGram1_ttv170230.py)\
+[Link here for: **Ngrams Assignment 2**](NGram_HW/NGram2_ttv170230.py)\
+[Link here for: **NGrams Narrative**](NGram_HW/NGrams_Narrative.pdf)
+
+## Sentence Parsing Assignment
+[Link here for: **Sentence Parsing**](Parsing_NLP_ttv170230.pdf)
