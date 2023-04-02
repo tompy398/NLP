@@ -55,3 +55,6 @@ regular expressions was a good review for myself.
 ## Web Crawler
 [Link here for: **Web Crawler**](WebCrawler/WebCrawler_ttv170230.py)\
 [Link here for **Web Crawler Report**](WebCrawler_Report.docx)
+
+## Text Classification
+[Link here for: **Text Classification Assignment**](TextClassification_ttv170230)
