@@ -67,4 +67,4 @@ regular expressions was a good review for myself.
 [Link here for: **Chatbot Report**](https://github.com/illustratedattempts/NLP-ChatBot/blob/main/ChatBotFinalReport_ttv170230_abv210001.pdf)
 
 ## Text Classification 2
-[Link here for: **Text Classification 2**]()
+[Link here for: **Text Classification 2**](TextClassification2_ttv170230)
