@@ -1,9 +1,10 @@
----
-layout: page
-title: "Portfolio Wrap Up"
-permalink: /Wrap-Up/
----
-Technical Skills:<br>
+Technical Skills:
+- Github Project Management<br>
+- System Development<br>
+- Code Base Structural Design<br>
+- Concise Yet Simple Documentation<br>
+
+Soft Skills:<br>
 - Communication<br>
   * For system and model design, I have had to try to communicate what my idea was in a manner that could be understood clearly by both parties. When words simply fail to convey the technical complexity of something, I strove to draw out my designs. Additionally, I consistently brought out graphs and charts to ensure that there's no possible confusion. This not only helped to clear the air of any technical abstraction and unruly interpretation but also let my team member contribute ideas based off of the model. This allowed for the both of us to build, manipulate, and refine our technical communication skills and software development abilities.<br>
   * Communicating is simply not just about fitting a bunch of jargon into a statement but rather making sure that a person understands the "idea" and getting it across successfully. In turn, due to the technicality of certain things, jargon is absolutely necessary yet we can "abstract" this by bringing into a medium that I believe we can all understand which is drawings and illustrations.
